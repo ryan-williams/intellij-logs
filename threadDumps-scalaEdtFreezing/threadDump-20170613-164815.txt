@@ -1,0 +1,668 @@
+"AWT-EventQueue-0 2017.2#IU-172.2827.15 IDEA, eap:true, os:Mac OS X 10.12.5, java-version:JetBrains s.r.o 1.8.0_152-release-884-b5" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+
+	at sun.management.ThreadImpl.$$YJP$$dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpThreads0(ThreadImpl.java)
+	at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:454)
+	at com.intellij.diagnostic.ThreadDumper.dumpThreadsToFile(ThreadDumper.java:74)
+	at com.intellij.diagnostic.ThreadDumper.getThreadDumpInfo(ThreadDumper.java:64)
+	at com.intellij.diagnostic.PerformanceWatcher.dumpThreads(PerformanceWatcher.java:273)
+	at org.jetbrains.plugins.scala.util.UIFreezingGuard$.dumpThreads(UIFreezingGuard.scala:118)
+	at org.jetbrains.plugins.scala.util.UIFreezingGuard$.withResponsibleUI(UIFreezingGuard.scala:70)
+	at org.jetbrains.plugins.scala.lang.psi.impl.ScalaFileImpl.isScriptFile(ScalaFileImpl.scala:179)
+	at org.jetbrains.plugins.scala.lang.psi.impl.ScalaFileImpl.getClasses(ScalaFileImpl.scala:334)
+	at com.intellij.ide.projectView.impl.ClassesTreeStructureProvider.a(ClassesTreeStructureProvider.java:87)
+	at com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$$Lambda$1803/952823717.compute(Unknown Source)
+	at com.intellij.openapi.application.ReadAction.compute(ReadAction.java:47)
+	at com.intellij.ide.projectView.impl.ClassesTreeStructureProvider.a(ClassesTreeStructureProvider.java:85)
+	at com.intellij.ide.projectView.impl.ClassesTreeStructureProvider.b(ClassesTreeStructureProvider.java:52)
+	at com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$$Lambda$1448/783774649.produce(Unknown Source)
+	at com.intellij.ide.util.treeView.AbstractTreeUi.calculateYieldingToWriteAction(AbstractTreeUi.java:1745)
+	at com.intellij.ide.projectView.impl.ClassesTreeStructureProvider.modify(ClassesTreeStructureProvider.java:52)
+	at com.intellij.ide.util.treeView.AbstractTreeStructureBase.getChildElements(AbstractTreeStructureBase.java:53)
+	at com.intellij.ide.projectView.BaseProjectTreeBuilder.a(BaseProjectTreeBuilder.java:307)
+	at com.intellij.ide.projectView.BaseProjectTreeBuilder.a(BaseProjectTreeBuilder.java:340)
+	at com.intellij.ide.projectView.BaseProjectTreeBuilder.a(BaseProjectTreeBuilder.java:354)
+	at com.intellij.ide.projectView.BaseProjectTreeBuilder$$Lambda$1464/614169300.run(Unknown Source)
+	at com.intellij.openapi.util.ExecutionCallback.setExecuted(ExecutionCallback.java:58)
+	at com.intellij.openapi.util.ActionCallback.setRejected(ActionCallback.java:91)
+	at com.intellij.ide.projectView.BaseProjectTreeBuilder.a(BaseProjectTreeBuilder.java:373)
+	at com.intellij.ide.projectView.BaseProjectTreeBuilder.a(BaseProjectTreeBuilder.java:354)
+	at com.intellij.ide.projectView.BaseProjectTreeBuilder$$Lambda$1464/614169300.run(Unknown Source)
+	at com.intellij.openapi.util.ExecutionCallback.setExecuted(ExecutionCallback.java:58)
+	at com.intellij.openapi.util.ActionCallback.setRejected(ActionCallback.java:91)
+	at com.intellij.ide.projectView.BaseProjectTreeBuilder.a(BaseProjectTreeBuilder.java:373)
+	at com.intellij.ide.projectView.BaseProjectTreeBuilder.a(BaseProjectTreeBuilder.java:315)
+	at com.intellij.ide.projectView.BaseProjectTreeBuilder$$Lambda$2757/1674432589.run(Unknown Source)
+	at com.intellij.ide.util.treeView.AbstractTreeBuilder.lambda$new$0(AbstractTreeBuilder.java:51)
+	at com.intellij.ide.util.treeView.AbstractTreeBuilder$$Lambda$1093/539462057.process(Unknown Source)
+	at com.intellij.util.containers.TransferToEDTQueue.processNext(TransferToEDTQueue.java:102)
+	at com.intellij.util.containers.TransferToEDTQueue.access$300(TransferToEDTQueue.java:37)
+	at com.intellij.util.containers.TransferToEDTQueue$1.run(TransferToEDTQueue.java:57)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.h(IdeEventQueue.java:821)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:649)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:365)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+"process reaper" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+ (in native)
+	at java.lang.UNIXProcess.$$YJP$$waitForProcessExit(Native Method)
+	at java.lang.UNIXProcess.waitForProcessExit(UNIXProcess.java)
+	at java.lang.UNIXProcess.lambda$initStreams$3(UNIXProcess.java:289)
+	at java.lang.UNIXProcess$$Lambda$29/674861858.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"RMI TCP Accept-0" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+ (in native)
+	at java.net.PlainSocketImpl.$$YJP$$socketAccept(Native Method)
+	at java.net.PlainSocketImpl.socketAccept(PlainSocketImpl.java)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.executeAcceptLoop(TCPTransport.java:400)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.run(TCPTransport.java:372)
+	at java.lang.Thread.run(Thread.java:745)
+
+"Netty Builtin Server 2" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+ (in native)
+	at sun.nio.ch.KQueueArrayWrapper.$$YJP$$kevent0(Native Method)
+	at sun.nio.ch.KQueueArrayWrapper.kevent0(KQueueArrayWrapper.java)
+	at sun.nio.ch.KQueueArrayWrapper.poll(KQueueArrayWrapper.java:198)
+	at sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:117)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:752)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:408)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:745)
+
+"BaseDataReader: error stream of fsnotifier" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+ (in native)
+	at java.io.FileInputStream.$$YJP$$readBytes(Native Method)
+	at java.io.FileInputStream.readBytes(FileInputStream.java)
+	at java.io.FileInputStream.read(FileInputStream.java:255)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.Reader.read(Reader.java:140)
+	at com.intellij.util.io.BaseOutputReader.readAvailableBlocking(BaseOutputReader.java:137)
+	at com.intellij.util.io.BaseDataReader.readAvailable(BaseDataReader.java:85)
+	at com.intellij.util.io.BaseDataReader.doRun(BaseDataReader.java:163)
+	at com.intellij.util.io.BaseDataReader$1$1.run(BaseDataReader.java:66)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:194)
+	at com.intellij.util.io.BaseDataReader$1.run(BaseDataReader.java:63)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"BaseDataReader: output stream of fsnotifier" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+ (in native)
+	at java.io.FileInputStream.$$YJP$$readBytes(Native Method)
+	at java.io.FileInputStream.readBytes(FileInputStream.java)
+	at java.io.FileInputStream.read(FileInputStream.java:255)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.Reader.read(Reader.java:140)
+	at com.intellij.util.io.BaseOutputReader.readAvailableBlocking(BaseOutputReader.java:137)
+	at com.intellij.util.io.BaseDataReader.readAvailable(BaseDataReader.java:85)
+	at com.intellij.util.io.BaseDataReader.doRun(BaseDataReader.java:163)
+	at com.intellij.util.io.BaseDataReader$1$1.run(BaseDataReader.java:66)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:194)
+	at com.intellij.util.io.BaseDataReader$1.run(BaseDataReader.java:63)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"YJPAgent-Telemetry" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+
+	at sun.management.ThreadImpl.$$YJP$$findDeadlockedThreads0(Native Method)
+	at sun.management.ThreadImpl.findDeadlockedThreads0(ThreadImpl.java)
+	at sun.management.ThreadImpl.findDeadlockedThreads(ThreadImpl.java:398)
+	at com.yourkit.runtime.TelemetryThread.findDeadlockedThreads(TelemetryThread.java:144)
+	at com.yourkit.runtime.TelemetryThread.fillValues(TelemetryThread.java:355)
+	at com.yourkit.runtime.TelemetryThread.run(TelemetryThread.java:588)
+
+"process reaper" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+ (in native)
+	at java.lang.UNIXProcess.$$YJP$$waitForProcessExit(Native Method)
+	at java.lang.UNIXProcess.waitForProcessExit(UNIXProcess.java)
+	at java.lang.UNIXProcess.lambda$initStreams$3(UNIXProcess.java:289)
+	at java.lang.UNIXProcess$$Lambda$29/674861858.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"Netty Builtin Server 1" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+ (in native)
+	at sun.nio.ch.KQueueArrayWrapper.$$YJP$$kevent0(Native Method)
+	at sun.nio.ch.KQueueArrayWrapper.kevent0(KQueueArrayWrapper.java)
+	at sun.nio.ch.KQueueArrayWrapper.poll(KQueueArrayWrapper.java:198)
+	at sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:117)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:752)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:408)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:745)
+
+"DestroyJavaVM" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+
+
+"AWT-AppKit" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+ (in native)
+
+"YJPAgent-OOMESnapshotDetector" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+ (in native)
+
+"YJPAgent-CPUSampler" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+ (in native)
+
+"YJPAgent-RequestListener" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+ (in native)
+	at java.net.PlainSocketImpl.$$YJP$$socketAccept(Native Method)
+	at java.net.PlainSocketImpl.socketAccept(PlainSocketImpl.java)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at com.yourkit.runtime.Core$4.run(Core.java:746)
+	at java.lang.Thread.run(Thread.java:745)
+
+"Signal Dispatcher" prio=0 tid=0x0 nid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+
+
+"JobScheduler FJ pool 3/4" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.util.concurrent.ForkJoinPool@6f3a6c93
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1824)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1693)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+
+"JobScheduler FJ pool 2/4" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:338)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.a(ProgressManagerImpl.java:236)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.access$000(ProgressManagerImpl.java:42)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$1.a(ProgressManagerImpl.java:47)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$1$$Lambda$78/1326521314.runHook(Unknown Source)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runCheckCanceledHooks(CoreProgressManager.java:124)
+	at com.intellij.openapi.progress.util.AbstractProgressIndicatorBase.checkCanceled(AbstractProgressIndicatorBase.java:132)
+	at com.intellij.codeInsight.daemon.impl.DaemonProgressIndicator.checkCanceled(DaemonProgressIndicator.java:76)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.doCheckCanceled(CoreProgressManager.java:133)
+	at com.intellij.openapi.progress.ProgressManager.checkCanceled(ProgressManager.java:206)
+	at com.intellij.openapi.progress.ProgressIndicatorProvider.checkCanceled(ProgressIndicatorProvider.java:49)
+	at com.intellij.extapi.psi.StubBasedPsiElementBase.getGreenStub(StubBasedPsiElementBase.java:394)
+	at org.jetbrains.plugins.scala.lang.psi.ScalaStubBasedElementImpl.byStubOrPsi(ScalaPsiElementImpl.scala:162)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.packaging.ScPackagingImpl.parentPackageName(ScPackagingImpl.scala:56)
+	at org.jetbrains.plugins.scala.lang.psi.api.toplevel.ScPackaging$class.fullPackageName(ScPackaging.scala:16)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.packaging.ScPackagingImpl.fullPackageName(ScPackagingImpl.scala:32)
+	at org.jetbrains.plugins.scala.lang.resolve.ScalaResolveResult.getPackageName$1(ScalaResolveResult.scala:163)
+	at org.jetbrains.plugins.scala.lang.resolve.ScalaResolveResult.getClazzPrecedence$1(ScalaResolveResult.scala:170)
+	at org.jetbrains.plugins.scala.lang.resolve.ScalaResolveResult.getPrecedenceInner$1(ScalaResolveResult.scala:195)
+	at org.jetbrains.plugins.scala.lang.resolve.ScalaResolveResult.getPrecedence(ScalaResolveResult.scala:259)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.PrecedenceHelper$class.getPrecedence(PrecedenceHelper.scala:180)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.ResolveProcessor.getPrecedence(ResolveProcessor.scala:25)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.PrecedenceHelper$class.addResults(PrecedenceHelper.scala:140)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.ResolveProcessor.addResults(ResolveProcessor.scala:25)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.PrecedenceHelper$class.addResult(PrecedenceHelper.scala:126)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.ResolveProcessor.addResult(ResolveProcessor.scala:25)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.ResolveProcessor.execute(ResolveProcessor.scala:147)
+	at org.jetbrains.plugins.scala.lang.psi.impl.base.ScStableCodeReferenceElementImpl$$anonfun$doResolve$1.apply(ScStableCodeReferenceElementImpl.scala:445)
+	at org.jetbrains.plugins.scala.lang.psi.impl.base.ScStableCodeReferenceElementImpl$$anonfun$doResolve$1.apply(ScStableCodeReferenceElementImpl.scala:445)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.jetbrains.plugins.scala.lang.psi.impl.base.ScStableCodeReferenceElementImpl.doResolve(ScStableCodeReferenceElementImpl.scala:445)
+	at org.jetbrains.plugins.scala.lang.resolve.StableCodeReferenceElementResolver.resolve(StableCodeReferenceElementResolver.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.impl.base.ScStableCodeReferenceElementImpl.multiResolve(ScStableCodeReferenceElementImpl.scala:283)
+	at org.jetbrains.plugins.scala.lang.psi.impl.expr.ScReferenceElementImpl.bind(ScReferenceElementImpl.scala:35)
+	at org.jetbrains.plugins.scala.lang.psi.impl.base.types.ScSimpleTypeElementImpl.org$jetbrains$plugins$scala$lang$psi$impl$base$types$ScSimpleTypeElementImpl$$innerNonValueType(ScSimpleTypeElementImpl.scala:302)
+	at org.jetbrains.plugins.scala.lang.psi.impl.base.types.ScSimpleTypeElementImpl.innerType(ScSimpleTypeElementImpl.scala:39)
+	at org.jetbrains.plugins.scala.lang.psi.api.base.types.ScTypeElement$class.getType(ScTypeElement.scala:25)
+	at org.jetbrains.plugins.scala.lang.psi.impl.base.types.ScSimpleTypeElementImpl.getType(ScSimpleTypeElementImpl.scala:38)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.templates.ScClassParentsImpl.superTypes(ScClassParentsImpl.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.templates.ScExtendsBlockImpl.superTypes(ScExtendsBlockImpl.scala:84)
+	at org.jetbrains.plugins.scala.lang.psi.api.toplevel.typedef.ScTemplateDefinition$class.superTypes(ScTemplateDefinition.scala:179)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.typedef.ScTypeDefinitionImpl.superTypes(ScTypeDefinitionImpl.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.typedef.MixinNodes$.inner$1(MixinNodes.scala:474)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.typedef.MixinNodes$.linearization(MixinNodes.scala:490)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.typedef.MixinNodes.build(MixinNodes.scala:338)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.typedef.MixinNodes.build(MixinNodes.scala:309)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.typedef.TypeDefinitionMembers$.inner$2(TypeDefinitionMembers.scala:519)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.typedef.TypeDefinitionMembers$.getTypes(TypeDefinitionMembers.scala:521)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.typedef.TypeDefinitionMembers$$anonfun$processDeclarations$3.apply(TypeDefinitionMembers.scala:664)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.typedef.TypeDefinitionMembers$$anonfun$processDeclarations$3.apply(TypeDefinitionMembers.scala:664)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.typedef.TypeDefinitionMembers$Lazy.apply(TypeDefinitionMembers.scala:719)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.typedef.TypeDefinitionMembers$.privateProcessDeclarations(TypeDefinitionMembers.scala:942)
+	at org.jetbrains.plugins.scala.lang.psi.impl.toplevel.typedef.TypeDefinitionMembers$.processDeclarations(TypeDefinitionMembers.scala:663)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.BaseProcessor.processElement(BaseProcessor.scala:297)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.BaseProcessor.processType(BaseProcessor.scala:215)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.BaseProcessor.processElement(BaseProcessor.scala:306)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.BaseProcessor.processType(BaseProcessor.scala:215)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver.processType$1(ReferenceExpressionResolver.scala:489)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver.processTypes$1(ReferenceExpressionResolver.scala:458)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver.doResolve(ReferenceExpressionResolver.scala:593)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver.resolve(ReferenceExpressionResolver.scala:133)
+	at org.jetbrains.plugins.scala.lang.resolve.ResolvableReferenceExpression$Resolver$.shapeResolveImpl$extension(ResolvableReferenceExpression.scala:22)
+	at org.jetbrains.plugins.scala.lang.psi.impl.expr.ScReferenceExpressionImpl.shapeResolve(ScReferenceExpressionImpl.scala:68)
+	at org.jetbrains.plugins.scala.lang.psi.api.expr.ExpectedTypes$.expectedExprTypes(ExpectedTypes.scala:279)
+	at org.jetbrains.plugins.scala.lang.psi.api.expr.ScExpression$Ext$.expectedTypesEx$extension(ScExpression.scala:219)
+	at org.jetbrains.plugins.scala.lang.psi.api.expr.ExpectedTypes$.expectedExprType(ExpectedTypes.scala:53)
+	at org.jetbrains.plugins.scala.lang.psi.api.expr.ScExpression$Ext$.expectedTypeEx$extension(ScExpression.scala:213)
+	at org.jetbrains.plugins.scala.lang.psi.api.expr.ScExpression$Ext$.expectedType$extension(ScExpression.scala:210)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver$$anonfun$getContextInfo$1.apply(ReferenceExpressionResolver.scala:61)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver$$anonfun$getContextInfo$1.apply(ReferenceExpressionResolver.scala:61)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver$$anonfun$1.apply(ReferenceExpressionResolver.scala:111)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver$$anonfun$1.apply(ReferenceExpressionResolver.scala:111)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.MethodResolveProcessor$.addExpectedTypeProblems$default$1$1(MethodResolveProcessor.scala:221)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.MethodResolveProcessor$.problemsFor(MethodResolveProcessor.scala:399)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.MethodResolveProcessor$.mapper$1(MethodResolveProcessor.scala:580)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.MethodResolveProcessor$.candidates(MethodResolveProcessor.scala:595)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.MethodResolveProcessor.collectCandidates(MethodResolveProcessor.scala:171)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.MethodResolveProcessor.candidatesS(MethodResolveProcessor.scala:142)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver$$anon$1.candidatesS(ReferenceExpressionResolver.scala:120)
+	at org.jetbrains.plugins.scala.lang.resolve.processor.BaseProcessor.rrcandidates(BaseProcessor.scala:79)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver.doResolve(ReferenceExpressionResolver.scala:595)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver.resolve(ReferenceExpressionResolver.scala:133)
+	at org.jetbrains.plugins.scala.lang.resolve.ResolvableReferenceExpression$Resolver$.shapeResolveImpl$extension(ResolvableReferenceExpression.scala:22)
+	at org.jetbrains.plugins.scala.lang.psi.impl.expr.ScReferenceExpressionImpl.shapeResolve(ScReferenceExpressionImpl.scala:68)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver$$anon$1.candidatesS(ReferenceExpressionResolver.scala:122)
+	at org.jetbrains.plugins.scala.lang.resolve.ReferenceExpressionResolver.resolve(ReferenceExpressionResolver.scala:135)
+	at org.jetbrains.plugins.scala.lang.resolve.ResolvableReferenceExpression$Resolver$.multiResolveImpl$extension(ResolvableReferenceExpression.scala:18)
+	at org.jetbrains.plugins.scala.lang.psi.impl.expr.ScReferenceExpressionImpl.multiResolve(ScReferenceExpressionImpl.scala:62)
+	at org.jetbrains.plugins.scala.lang.psi.impl.expr.ScReferenceElementImpl.bind(ScReferenceElementImpl.scala:35)
+	at org.jetbrains.plugins.scala.lang.psi.impl.expr.ScReferenceElementImpl.resolve(ScReferenceElementImpl.scala:18)
+	at org.jetbrains.plugins.scala.extensions.ResolvesTo$.unapply(Resolved.scala:29)
+	at org.jetbrains.plugins.scala.scalai18n.codeInspection.i18n.ScalaI18nUtil$.isPassedToAnnotatedParam(ScalaI18nUtil.scala:79)
+	at org.jetbrains.plugins.scala.scalai18n.codeInspection.i18n.ScalaI18nUtil$.mustBePropertyKey(ScalaI18nUtil.scala:58)
+	at org.jetbrains.plugins.scala.scalai18n.codeInspection.i18n.ScalaI18nUtil$.isI18nProperty(ScalaI18nUtil.scala:50)
+	at org.jetbrains.plugins.scala.scalai18n.codeInspection.i18n.folding.ScalaPropertyFoldingBuilder.org$jetbrains$plugins$scala$scalai18n$codeInspection$i18n$folding$ScalaPropertyFoldingBuilder$$checkLiteral(ScalaPropertyFoldingBuilder.scala:55)
+	at org.jetbrains.plugins.scala.scalai18n.codeInspection.i18n.folding.ScalaPropertyFoldingBuilder$$anonfun$buildFoldRegions$1.apply(ScalaPropertyFoldingBuilder.scala:35)
+	at org.jetbrains.plugins.scala.scalai18n.codeInspection.i18n.folding.ScalaPropertyFoldingBuilder$$anonfun$buildFoldRegions$1.apply(ScalaPropertyFoldingBuilder.scala:35)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:891)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1334)
+	at org.jetbrains.plugins.scala.scalai18n.codeInspection.i18n.folding.ScalaPropertyFoldingBuilder.buildFoldRegions(ScalaPropertyFoldingBuilder.scala:35)
+	at com.intellij.lang.folding.LanguageFolding.buildFoldingDescriptors(LanguageFolding.java:83)
+	at com.intellij.lang.folding.CompositeFoldingBuilder.buildFoldRegions(CompositeFoldingBuilder.java:63)
+	at com.intellij.lang.folding.LanguageFolding.buildFoldingDescriptors(LanguageFolding.java:83)
+	at com.intellij.codeInsight.folding.impl.FoldingUpdate.a(FoldingUpdate.java:241)
+	at com.intellij.codeInsight.folding.impl.FoldingUpdate.getFoldingsFor(FoldingUpdate.java:227)
+	at com.intellij.codeInsight.folding.impl.FoldingUpdate.a(FoldingUpdate.java:112)
+	at com.intellij.codeInsight.folding.impl.FoldingUpdate.a(FoldingUpdate.java:101)
+	at com.intellij.codeInsight.folding.impl.FoldingUpdate$$Lambda$1281/1531563188.compute(Unknown Source)
+	at com.intellij.psi.impl.PsiParameterizedCachedValue.doCompute(PsiParameterizedCachedValue.java:45)
+	at com.intellij.util.CachedValueBase.getValueWithLock(CachedValueBase.java:222)
+	at com.intellij.psi.impl.PsiCachedValue.getValueWithLock(PsiCachedValue.java:60)
+	at com.intellij.psi.impl.PsiParameterizedCachedValue.getValue(PsiParameterizedCachedValue.java:35)
+	at com.intellij.psi.util.CachedValuesManager.getParameterizedCachedValue(CachedValuesManager.java:96)
+	at com.intellij.codeInsight.folding.impl.FoldingUpdate.updateFoldRegions(FoldingUpdate.java:97)
+	at com.intellij.codeInsight.folding.impl.CodeFoldingManagerImpl.a(CodeFoldingManagerImpl.java:326)
+	at com.intellij.codeInsight.folding.impl.CodeFoldingManagerImpl.updateFoldRegionsAsync(CodeFoldingManagerImpl.java:312)
+	at com.intellij.codeInsight.daemon.impl.CodeFoldingPass.doCollectInformation(CodeFoldingPass.java:42)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.d(PassExecutorService.java:438)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass$$Lambda$1277/258199079.run(Unknown Source)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.b(PassExecutorService.java:431)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass$$Lambda$1273/190598036.run(Unknown Source)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:548)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:493)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:94)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.c(PassExecutorService.java:430)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.a(PassExecutorService.java:406)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass$$Lambda$1270/1754361161.run(Unknown Source)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:142)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:250)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:404)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:165)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+
+"JobScheduler FJ pool 1/4" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.util.concurrent.ForkJoinPool@6f3a6c93
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1824)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1693)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+
+"JobScheduler FJ pool 0/4" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.util.concurrent.ForkJoinPool@6f3a6c93
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1824)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1693)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+
+"ApplicationImpl pooled thread 570" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on java.util.concurrent.SynchronousQueue$TransferStack@2942f7ae
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1066)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"ApplicationImpl pooled thread 569" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on java.util.concurrent.SynchronousQueue$TransferStack@2942f7ae
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1066)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"ApplicationImpl pooled thread 566" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on java.util.concurrent.SynchronousQueue$TransferStack@2942f7ae
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1066)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"ApplicationImpl pooled thread 564" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on java.util.concurrent.SynchronousQueue$TransferStack@2942f7ae
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1066)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"ApplicationImpl pooled thread 559" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on java.util.concurrent.SynchronousQueue$TransferStack@2942f7ae
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1066)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"ApplicationImpl pooled thread 558" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on java.util.concurrent.SynchronousQueue$TransferStack@2942f7ae
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1066)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"ApplicationImpl pooled thread 527" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on java.util.concurrent.SynchronousQueue$TransferStack@2942f7ae
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1066)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"BaseDataReader: output stream of scalaCompileServer" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on java.lang.Object@31ee5ddb
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at com.intellij.util.io.BaseDataReader.doRun(BaseDataReader.java:175)
+	at com.intellij.util.io.BaseDataReader$1$1.run(BaseDataReader.java:66)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:194)
+	at com.intellij.util.io.BaseDataReader$1.run(BaseDataReader.java:63)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"BaseDataReader: error stream of scalaCompileServer" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on java.lang.Object@150199f7
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at com.intellij.util.io.BaseDataReader.doRun(BaseDataReader.java:175)
+	at com.intellij.util.io.BaseDataReader$1$1.run(BaseDataReader.java:66)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:194)
+	at com.intellij.util.io.BaseDataReader$1.run(BaseDataReader.java:63)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"ProcessWaitFor: scalaCompileServer" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.lang.UNIXProcess@5fe7c658
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at java.lang.Object.wait(Object.java:502)
+	at java.lang.UNIXProcess.waitFor(UNIXProcess.java:395)
+	at com.intellij.execution.process.ProcessWaitFor$1.run(ProcessWaitFor.java:52)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"Netty threadDeathWatcher-2-1" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+
+	at java.lang.Thread.$$YJP$$sleep(Native Method)
+	at java.lang.Thread.sleep(Thread.java)
+	at io.netty.util.ThreadDeathWatcher$Watcher.run(ThreadDeathWatcher.java:152)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+
+"RMI RenewClean-[localhost:63253]" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on java.lang.ref.ReferenceQueue$Lock@648ebef0
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at sun.rmi.transport.DGCClient$EndpointEntry$RenewCleanThread.run(DGCClient.java:553)
+	at java.lang.Thread.run(Thread.java:745)
+
+"RMI Scheduler(0)" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@faaaf2
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"GC Daemon" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on sun.misc.GC$LatencyLock@5b3f2f0c
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at sun.misc.GC$Daemon.run(GC.java:117)
+
+"RMI Reaper" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.lang.ref.ReferenceQueue$Lock@65fe5c42
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at sun.rmi.transport.ObjectTable$Reaper.run(ObjectTable.java:351)
+	at java.lang.Thread.run(Thread.java:745)
+
+"TimerQueue" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@74161733
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+	at java.util.concurrent.DelayQueue.take(DelayQueue.java:223)
+	at javax.swing.TimerQueue.run(TimerQueue.java:174)
+	at java.lang.Thread.run(Thread.java:745)
+
+"ProcessWaitFor: fsnotifier" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.lang.UNIXProcess@50ebf054
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at java.lang.Object.wait(Object.java:502)
+	at java.lang.UNIXProcess.waitFor(UNIXProcess.java:395)
+	at com.intellij.execution.process.ProcessWaitFor$1.run(ProcessWaitFor.java:52)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+"AWT-SelectorPerformer pool-2-thread-1" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.util.concurrent.SynchronousQueue$TransferStack@5233166
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:458)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.take(SynchronousQueue.java:924)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:652)
+	at java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:649)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:649)
+	at java.lang.Thread.run(Thread.java:745)
+
+"AWT-Shutdown" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.lang.Object@5ae700ff
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at java.lang.Object.wait(Object.java:502)
+	at sun.awt.AWTAutoShutdown.run(AWTAutoShutdown.java:295)
+	at java.lang.Thread.run(Thread.java:745)
+
+"Timer-0" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.util.TaskQueue@48661a59
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at java.lang.Object.wait(Object.java:502)
+	at java.util.TimerThread.mainLoop(Timer.java:526)
+	at java.util.TimerThread.run(Timer.java:505)
+
+"Periodic tasks thread" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@47003a51
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+	at java.util.concurrent.DelayQueue.take(DelayQueue.java:223)
+	at com.intellij.util.concurrency.AppDelayQueue$1.run(AppDelayQueue.java:42)
+	at java.lang.Thread.run(Thread.java:745)
+
+"Java2D Disposer" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.lang.ref.ReferenceQueue$Lock@5bb48bd6
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at sun.java2d.Disposer.run(Disposer.java:148)
+	at java.lang.Thread.run(Thread.java:745)
+
+"Java2D Queue Flusher" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: TIMED_WAITING
+ on sun.java2d.opengl.OGLRenderQueue$QueueFlusher@39b688a7
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at sun.java2d.opengl.OGLRenderQueue$QueueFlusher.run(OGLRenderQueue.java:203)
+
+"Finalizer" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.lang.ref.ReferenceQueue$Lock@41fae91a
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+
+"Reference Handler" prio=0 tid=0x0 nid=0x0 waiting on condition
+     java.lang.Thread.State: WAITING
+ on java.lang.ref.Reference$Lock@7ee91c6
+	at java.lang.Object.$$YJP$$wait(Native Method)
+	at java.lang.Object.wait(Object.java)
+	at java.lang.Object.wait(Object.java:502)
+	at java.lang.ref.Reference.tryHandlePending(Reference.java:191)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)
+
