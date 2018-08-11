@@ -1,0 +1,1223 @@
+2018-08-04 17:07:30,234 [154716978]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416850234] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:07:59,274 [154746018]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416879274] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:07:59,740 [154746484]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416879740] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:08:04,507 [154751251]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416884507] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:08:04,856 [154751600]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416884856] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:08:05,048 [154751792]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416885048] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:08:09,145 [154755889]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416889145] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:08:09,428 [154756172]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416889428] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:08:09,505 [154756249]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416889505] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:08:09,722 [154756466]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416889722] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:08:15,952 [154762696]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416895952] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:08:16,219 [154762963]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416896219] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:08:16,482 [154763226]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416896482] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:08:35,870 [154782614]   WARN - ess.util.ProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress. 
+2018-08-04 17:08:48,432 [154795176]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416928432] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:08:48,679 [154795423]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533416928679] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:10:25,838 [154892582]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533417025837] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:10:26,120 [154892864]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533417026120] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:11:13,592 [154940336]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533417073592] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:11:13,893 [154940637]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533417073893] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:14:00,311 [155107055]   WARN - ess.util.ProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress. 
+2018-08-04 17:14:00,900 [155107644]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533417240900] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:14:01,152 [155107896]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533417241151] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:14:01,397 [155108141]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533417241397] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:14:01,462 [155108206]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533417241462] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:18:05,419 [155352163]   INFO -  #git4idea.commands.GitHandler - [../hdf5-java-cloud] git -c core.quotepath=false -c log.showSignature=false rm --ignore-unmatch --cached -- .idea/libraries/sbt__io_circe_circe_core_sjs0_6_2_12_0_9_3_jar.xml .idea/libraries/sbt__org_hammerlab_types_sjs0_6_2_12_1_3_0_jar.xml .idea/libraries/sbt__org_typelevel_spire_sjs0_6_2_12_0_15_0_jar.xml .idea/libraries/sbt__org_typelevel_algebra_sjs0_6_2_12_1_0_0_jar.xml .idea/libraries/sbt__io_circe_circe_generic_sjs0_6_2_12_0_9_3_jar.xml .idea/libraries/sbt__io_circe_circe_numbers_sjs0_6_2_12_0_9_3_jar.xml .idea/libraries/sbt__org_typelevel_macro_compat_sjs0_6_2_12_1_1_1_jar.xml .idea/libraries/sbt__org_typelevel_spire_macros_sjs0_6_2_12_0_15_0_jar.xml 
+2018-08-04 17:23:28,562 [155675306]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533417808562] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:23:28,955 [155675699]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533417808955] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:23:29,246 [155675990]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533417809245] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:23:29,453 [155676197]   INFO - .openapi.util.LowMemoryWatcher - Low memory signal received. 
+2018-08-04 17:28:24,574 [155971318]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418104574] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:28:24,861 [155971605]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418104861] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:28:25,087 [155971831]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418105087] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:28:25,147 [155971891]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418105147] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:28:56,507 [156003251]   INFO - agnostic.FrequentEventDetector - Too many events posted, #2. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418136507] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:30:28,811 [156095555]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418228810] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:30:29,019 [156095763]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418229019] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:34:18,801 [156325545]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418458801] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:34:18,895 [156325639]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418458895] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:34:19,065 [156325809]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418459065] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:34:19,292 [156326036]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418459291] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:34:19,356 [156326100]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418459356] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:34:29,410 [156336154]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418469410] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:34:29,509 [156336253]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418469509] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:34:29,708 [156336452]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418469708] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:34:29,917 [156336661]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418469917] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:34:45,404 [156352148]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418485404] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:34:45,473 [156352217]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533418485473] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:58:12,580 [157759324]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533419892580] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:58:12,645 [157759389]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533419892645] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:58:12,822 [157759566]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533419892822] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 17:58:12,901 [157759645]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533419892901] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 21:32:05,620 [170592364]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533432725619] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 21:32:49,992 [170636736]   INFO - agnostic.FrequentEventDetector - Too many events posted, #3. Event: java.awt.event.MouseEvent[MOUSE_MOVED,(797,655),absolute(-738,677),clickCount=0] on frame0 
+2018-08-04 21:36:29,746 [170856490]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533432989746] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 21:36:29,787 [170856531]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533432989787] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 21:36:29,878 [170856622]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533432989878] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 21:36:30,119 [170856863]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533432990119] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 21:48:57,128 [171603872]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533433737128] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 21:48:57,222 [171603966]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533433737222] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 21:48:57,358 [171604102]   INFO -  #git4idea.commands.GitHandler - [hdf5-java-cloud] git -c core.quotepath=false -c log.showSignature=false add --ignore-errors -- zarr/shared/src/main/scala/org/lasersonlab/zarr/Arithmetic.scala 
+2018-08-04 21:57:46,513 [172133257]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533434266513] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 21:57:46,753 [172133497]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533434266753] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 21:57:46,785 [172133529]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533434266785] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 21:57:55,912 [172142656]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533434275912] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 21:57:56,277 [172143021]   INFO - agnostic.FrequentEventDetector - Too many events posted, #3. Event: java.awt.event.MouseEvent[MOUSE_MOVED,(723,345),absolute(-812,367),clickCount=0] on frame0 
+2018-08-04 21:58:19,277 [172166021]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533434299276] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:00:00,155 [172266899]  ERROR - aemon.impl.PassExecutorService - null 
+java.util.ConcurrentModificationException
+	at java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:719)
+	at java.util.LinkedHashMap$LinkedKeyIterator.next(LinkedHashMap.java:742)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.currentStackContains(RecursionManager.scala:88)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:48)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.conforms$extension0(package.scala:40)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.equivInner(ScCompoundType.scala:169)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaEquivalence$$anon$1.compute(ScalaEquivalence.scala:75)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaEquivalence$$anon$1.compute(ScalaEquivalence.scala:18)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Equivalence.equivInner(Equivalence.scala:66)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Equivalence.equivInner$(Equivalence.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.equivInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.equiv$extension1(package.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.checkEquiv(ScalaConformance.scala:216)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitParameterizedType(ScalaConformance.scala:887)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.$anonfun$visitCompoundType$3(ScalaConformance.scala:638)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.$anonfun$visitCompoundType$3$adapted(ScalaConformance.scala:637)
+	at scala.collection.IndexedSeqOptimized.prefixLengthImpl(IndexedSeqOptimized.scala:37)
+	at scala.collection.IndexedSeqOptimized.forall(IndexedSeqOptimized.scala:42)
+	at scala.collection.IndexedSeqOptimized.forall$(IndexedSeqOptimized.scala:42)
+	at scala.collection.mutable.ArrayBuffer.forall(ArrayBuffer.scala:48)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitCompoundType(ScalaConformance.scala:637)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.visitType(ScCompoundType.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$ParameterizedAliasVisitor.visitParameterizedType(ScalaConformance.scala:333)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$ParameterizedAliasVisitor.visitParameterizedType$(ScalaConformance.scala:329)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$$anon$33.visitParameterizedType(ScalaConformance.scala:612)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitCompoundType(ScalaConformance.scala:613)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.visitType(ScCompoundType.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitParameterizedType(ScalaConformance.scala:948)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.conforms$extension0(package.scala:40)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:590)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:324)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:180)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:141)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.findImplicits(InferUtil.scala:176)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.updateTypeWithImplicitParameters(InferUtil.scala:105)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.updateImplicitParameters(ImplicitCollector.scala:469)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compute$1(ImplicitCollector.scala:504)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionType(ImplicitCollector.scala:528)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:592)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:335)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:184)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:141)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.findImplicits(InferUtil.scala:176)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.updateTypeWithImplicitParameters(InferUtil.scala:105)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.updateImplicitParameters(ImplicitCollector.scala:469)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compute$1(ImplicitCollector.scala:504)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionType(ImplicitCollector.scala:512)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:592)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:335)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:184)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:145)
+	at org.jetbrains.plugins.scala.lang.psi.api.expr.ScExpression$Ext$.getTypeAfterImplicitConversion$extension(ScExpression.scala:321)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.properTargetCollection$1(BaseJavaConvertersIntention.scala:33)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.$anonfun$isAvailable$1(BaseJavaConvertersIntention.scala:38)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.$anonfun$isAvailable$1$adapted(BaseJavaConvertersIntention.scala:32)
+	at scala.Option.exists(Option.scala:240)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.isAvailable(BaseJavaConvertersIntention.scala:32)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.availableFor(ShowIntentionActionsHandler.java:130)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.lambda$getActionsToShow$2(ShowIntentionsPass.java:340)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.chooseBetweenHostAndInjected(ShowIntentionActionsHandler.java:157)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getActionsToShow(ShowIntentionsPass.java:339)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getIntentionActionsToShow(ShowIntentionsPass.java:269)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.doCollectInformation(ShowIntentionsPass.java:245)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$null$1(PassExecutorService.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:430)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:429)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:405)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:403)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:170)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-08-04 22:00:00,155 [172266899]  ERROR - aemon.impl.PassExecutorService - null 
+java.util.ConcurrentModificationException
+	at java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:719)
+	at java.util.LinkedHashMap$LinkedKeyIterator.next(LinkedHashMap.java:742)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.currentStackContains(RecursionManager.scala:88)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:48)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.conforms$extension0(package.scala:40)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.equivInner(ScCompoundType.scala:169)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaEquivalence$$anon$1.compute(ScalaEquivalence.scala:75)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaEquivalence$$anon$1.compute(ScalaEquivalence.scala:18)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Equivalence.equivInner(Equivalence.scala:66)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Equivalence.equivInner$(Equivalence.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.equivInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.equiv$extension1(package.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.checkEquiv(ScalaConformance.scala:216)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitParameterizedType(ScalaConformance.scala:887)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.$anonfun$visitCompoundType$3(ScalaConformance.scala:638)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.$anonfun$visitCompoundType$3$adapted(ScalaConformance.scala:637)
+	at scala.collection.IndexedSeqOptimized.prefixLengthImpl(IndexedSeqOptimized.scala:37)
+	at scala.collection.IndexedSeqOptimized.forall(IndexedSeqOptimized.scala:42)
+	at scala.collection.IndexedSeqOptimized.forall$(IndexedSeqOptimized.scala:42)
+	at scala.collection.mutable.ArrayBuffer.forall(ArrayBuffer.scala:48)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitCompoundType(ScalaConformance.scala:637)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.visitType(ScCompoundType.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$ParameterizedAliasVisitor.visitParameterizedType(ScalaConformance.scala:333)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$ParameterizedAliasVisitor.visitParameterizedType$(ScalaConformance.scala:329)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$$anon$33.visitParameterizedType(ScalaConformance.scala:612)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitCompoundType(ScalaConformance.scala:613)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.visitType(ScCompoundType.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitParameterizedType(ScalaConformance.scala:948)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.conforms$extension0(package.scala:40)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:590)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:324)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:180)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:141)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.findImplicits(InferUtil.scala:176)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.updateTypeWithImplicitParameters(InferUtil.scala:105)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.updateImplicitParameters(ImplicitCollector.scala:469)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compute$1(ImplicitCollector.scala:504)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionType(ImplicitCollector.scala:528)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:592)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:335)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:184)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:141)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.findImplicits(InferUtil.scala:176)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.updateTypeWithImplicitParameters(InferUtil.scala:105)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.updateImplicitParameters(ImplicitCollector.scala:469)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compute$1(ImplicitCollector.scala:504)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionType(ImplicitCollector.scala:512)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:592)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:335)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:184)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:145)
+	at org.jetbrains.plugins.scala.lang.psi.api.expr.ScExpression$Ext$.getTypeAfterImplicitConversion$extension(ScExpression.scala:321)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.properTargetCollection$1(BaseJavaConvertersIntention.scala:33)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.$anonfun$isAvailable$1(BaseJavaConvertersIntention.scala:38)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.$anonfun$isAvailable$1$adapted(BaseJavaConvertersIntention.scala:32)
+	at scala.Option.exists(Option.scala:240)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.isAvailable(BaseJavaConvertersIntention.scala:32)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.availableFor(ShowIntentionActionsHandler.java:130)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.lambda$getActionsToShow$2(ShowIntentionsPass.java:340)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.chooseBetweenHostAndInjected(ShowIntentionActionsHandler.java:157)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getActionsToShow(ShowIntentionsPass.java:339)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getIntentionActionsToShow(ShowIntentionsPass.java:269)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.doCollectInformation(ShowIntentionsPass.java:245)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$null$1(PassExecutorService.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:430)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:429)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:405)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:403)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:170)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - IntelliJ IDEA 2018.1.6  Build #IU-181.5540.7 
+2018-08-04 22:00:00,156 [172266900]  ERROR - aemon.impl.PassExecutorService - IntelliJ IDEA 2018.1.6  Build #IU-181.5540.7 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - JDK: 1.8.0_152-release 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - JDK: 1.8.0_152-release 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - VM: OpenJDK 64-Bit Server VM 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - Vendor: JetBrains s.r.o 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - VM: OpenJDK 64-Bit Server VM 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - OS: Mac OS X 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - Vendor: JetBrains s.r.o 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - Last Action: EditorLeft 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - OS: Mac OS X 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - Last Action: EditorLeft 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - null 
+java.util.ConcurrentModificationException
+	at java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:719)
+	at java.util.LinkedHashMap$LinkedKeyIterator.next(LinkedHashMap.java:742)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.currentStackContains(RecursionManager.scala:88)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:48)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.conforms$extension0(package.scala:40)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.equivInner(ScCompoundType.scala:169)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaEquivalence$$anon$1.compute(ScalaEquivalence.scala:75)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaEquivalence$$anon$1.compute(ScalaEquivalence.scala:18)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Equivalence.equivInner(Equivalence.scala:66)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Equivalence.equivInner$(Equivalence.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.equivInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.equiv$extension1(package.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.checkEquiv(ScalaConformance.scala:216)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitParameterizedType(ScalaConformance.scala:887)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.$anonfun$visitCompoundType$3(ScalaConformance.scala:638)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.$anonfun$visitCompoundType$3$adapted(ScalaConformance.scala:637)
+	at scala.collection.IndexedSeqOptimized.prefixLengthImpl(IndexedSeqOptimized.scala:37)
+	at scala.collection.IndexedSeqOptimized.forall(IndexedSeqOptimized.scala:42)
+	at scala.collection.IndexedSeqOptimized.forall$(IndexedSeqOptimized.scala:42)
+	at scala.collection.mutable.ArrayBuffer.forall(ArrayBuffer.scala:48)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitCompoundType(ScalaConformance.scala:637)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.visitType(ScCompoundType.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$ParameterizedAliasVisitor.visitParameterizedType(ScalaConformance.scala:333)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$ParameterizedAliasVisitor.visitParameterizedType$(ScalaConformance.scala:329)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$$anon$33.visitParameterizedType(ScalaConformance.scala:612)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitCompoundType(ScalaConformance.scala:613)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.visitType(ScCompoundType.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitParameterizedType(ScalaConformance.scala:948)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.conforms$extension0(package.scala:40)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:590)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:324)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:180)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:141)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.findImplicits(InferUtil.scala:176)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.updateTypeWithImplicitParameters(InferUtil.scala:105)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.updateImplicitParameters(ImplicitCollector.scala:469)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compute$1(ImplicitCollector.scala:504)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionType(ImplicitCollector.scala:528)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:592)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:335)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:184)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:141)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.findImplicits(InferUtil.scala:176)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.updateTypeWithImplicitParameters(InferUtil.scala:105)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.updateImplicitParameters(ImplicitCollector.scala:469)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compute$1(ImplicitCollector.scala:504)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionType(ImplicitCollector.scala:512)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:592)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:335)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:184)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:145)
+	at org.jetbrains.plugins.scala.lang.psi.api.expr.ScExpression$Ext$.getTypeAfterImplicitConversion$extension(ScExpression.scala:321)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.properTargetCollection$1(BaseJavaConvertersIntention.scala:33)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.$anonfun$isAvailable$1(BaseJavaConvertersIntention.scala:38)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.$anonfun$isAvailable$1$adapted(BaseJavaConvertersIntention.scala:32)
+	at scala.Option.exists(Option.scala:240)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.isAvailable(BaseJavaConvertersIntention.scala:32)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.availableFor(ShowIntentionActionsHandler.java:130)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.lambda$getActionsToShow$2(ShowIntentionsPass.java:340)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.chooseBetweenHostAndInjected(ShowIntentionActionsHandler.java:157)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getActionsToShow(ShowIntentionsPass.java:339)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getIntentionActionsToShow(ShowIntentionsPass.java:269)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.doCollectInformation(ShowIntentionsPass.java:245)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$null$1(PassExecutorService.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:430)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:429)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:405)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:403)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:170)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - null 
+java.util.ConcurrentModificationException
+	at java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:719)
+	at java.util.LinkedHashMap$LinkedKeyIterator.next(LinkedHashMap.java:742)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.currentStackContains(RecursionManager.scala:88)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:48)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.conforms$extension0(package.scala:40)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.equivInner(ScCompoundType.scala:169)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaEquivalence$$anon$1.compute(ScalaEquivalence.scala:75)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaEquivalence$$anon$1.compute(ScalaEquivalence.scala:18)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Equivalence.equivInner(Equivalence.scala:66)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Equivalence.equivInner$(Equivalence.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.equivInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.equiv$extension1(package.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.checkEquiv(ScalaConformance.scala:216)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitParameterizedType(ScalaConformance.scala:887)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.$anonfun$visitCompoundType$3(ScalaConformance.scala:638)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.$anonfun$visitCompoundType$3$adapted(ScalaConformance.scala:637)
+	at scala.collection.IndexedSeqOptimized.prefixLengthImpl(IndexedSeqOptimized.scala:37)
+	at scala.collection.IndexedSeqOptimized.forall(IndexedSeqOptimized.scala:42)
+	at scala.collection.IndexedSeqOptimized.forall$(IndexedSeqOptimized.scala:42)
+	at scala.collection.mutable.ArrayBuffer.forall(ArrayBuffer.scala:48)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitCompoundType(ScalaConformance.scala:637)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.visitType(ScCompoundType.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$ParameterizedAliasVisitor.visitParameterizedType(ScalaConformance.scala:333)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$ParameterizedAliasVisitor.visitParameterizedType$(ScalaConformance.scala:329)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$$anon$33.visitParameterizedType(ScalaConformance.scala:612)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitCompoundType(ScalaConformance.scala:613)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.visitType(ScCompoundType.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitParameterizedType(ScalaConformance.scala:948)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.conforms$extension0(package.scala:40)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:590)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:324)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:180)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:141)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.findImplicits(InferUtil.scala:176)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.updateTypeWithImplicitParameters(InferUtil.scala:105)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.updateImplicitParameters(ImplicitCollector.scala:469)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compute$1(ImplicitCollector.scala:504)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionType(ImplicitCollector.scala:528)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:592)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:335)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:184)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:141)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.findImplicits(InferUtil.scala:176)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.updateTypeWithImplicitParameters(InferUtil.scala:105)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.updateImplicitParameters(ImplicitCollector.scala:469)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compute$1(ImplicitCollector.scala:504)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionType(ImplicitCollector.scala:512)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:592)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:335)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:184)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:145)
+	at org.jetbrains.plugins.scala.lang.psi.api.expr.ScExpression$Ext$.getTypeAfterImplicitConversion$extension(ScExpression.scala:321)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.properTargetCollection$1(BaseJavaConvertersIntention.scala:33)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.$anonfun$isAvailable$1(BaseJavaConvertersIntention.scala:38)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.$anonfun$isAvailable$1$adapted(BaseJavaConvertersIntention.scala:32)
+	at scala.Option.exists(Option.scala:240)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.isAvailable(BaseJavaConvertersIntention.scala:32)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.availableFor(ShowIntentionActionsHandler.java:130)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.lambda$getActionsToShow$2(ShowIntentionsPass.java:340)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.chooseBetweenHostAndInjected(ShowIntentionActionsHandler.java:157)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getActionsToShow(ShowIntentionsPass.java:339)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getIntentionActionsToShow(ShowIntentionsPass.java:269)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.doCollectInformation(ShowIntentionsPass.java:245)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$null$1(PassExecutorService.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:430)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:429)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:405)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:403)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:170)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - IntelliJ IDEA 2018.1.6  Build #IU-181.5540.7 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - JDK: 1.8.0_152-release 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - VM: OpenJDK 64-Bit Server VM 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - Vendor: JetBrains s.r.o 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - IntelliJ IDEA 2018.1.6  Build #IU-181.5540.7 
+2018-08-04 22:00:00,158 [172266902]  ERROR - aemon.impl.PassExecutorService - JDK: 1.8.0_152-release 
+2018-08-04 22:00:00,157 [172266901]  ERROR - aemon.impl.PassExecutorService - OS: Mac OS X 
+2018-08-04 22:00:00,158 [172266902]  ERROR - aemon.impl.PassExecutorService - Last Action: EditorLeft 
+2018-08-04 22:00:00,158 [172266902]  ERROR - aemon.impl.PassExecutorService - VM: OpenJDK 64-Bit Server VM 
+2018-08-04 22:00:00,158 [172266902]  ERROR - aemon.impl.PassExecutorService - Vendor: JetBrains s.r.o 
+2018-08-04 22:00:00,158 [172266902]  ERROR - aemon.impl.PassExecutorService - OS: Mac OS X 
+2018-08-04 22:00:00,158 [172266902]  ERROR - aemon.impl.PassExecutorService - Last Action: EditorLeft 
+2018-08-04 22:00:01,394 [172268138]  ERROR - aemon.impl.PassExecutorService - null 
+java.util.ConcurrentModificationException
+	at java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:719)
+	at java.util.LinkedHashMap$LinkedKeyIterator.next(LinkedHashMap.java:742)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.currentStackContains(RecursionManager.scala:88)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:48)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.conforms$extension0(package.scala:40)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.equivInner(ScCompoundType.scala:169)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaEquivalence$$anon$1.compute(ScalaEquivalence.scala:75)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaEquivalence$$anon$1.compute(ScalaEquivalence.scala:18)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Equivalence.equivInner(Equivalence.scala:66)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Equivalence.equivInner$(Equivalence.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.equivInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.equiv$extension1(package.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.checkEquiv(ScalaConformance.scala:216)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitParameterizedType(ScalaConformance.scala:887)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.$anonfun$visitCompoundType$3(ScalaConformance.scala:638)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.$anonfun$visitCompoundType$3$adapted(ScalaConformance.scala:637)
+	at scala.collection.IndexedSeqOptimized.prefixLengthImpl(IndexedSeqOptimized.scala:37)
+	at scala.collection.IndexedSeqOptimized.forall(IndexedSeqOptimized.scala:42)
+	at scala.collection.IndexedSeqOptimized.forall$(IndexedSeqOptimized.scala:42)
+	at scala.collection.mutable.ArrayBuffer.forall(ArrayBuffer.scala:48)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitCompoundType(ScalaConformance.scala:637)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.visitType(ScCompoundType.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$ParameterizedAliasVisitor.visitParameterizedType(ScalaConformance.scala:333)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$ParameterizedAliasVisitor.visitParameterizedType$(ScalaConformance.scala:329)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$$anon$33.visitParameterizedType(ScalaConformance.scala:612)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitCompoundType(ScalaConformance.scala:613)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.visitType(ScCompoundType.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitParameterizedType(ScalaConformance.scala:948)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.conforms$extension0(package.scala:40)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:590)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:324)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:180)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:141)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.findImplicits(InferUtil.scala:176)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.updateTypeWithImplicitParameters(InferUtil.scala:105)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.updateImplicitParameters(ImplicitCollector.scala:469)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compute$1(ImplicitCollector.scala:504)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionType(ImplicitCollector.scala:528)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:592)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:335)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:184)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:141)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.findImplicits(InferUtil.scala:176)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.updateTypeWithImplicitParameters(InferUtil.scala:105)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.updateImplicitParameters(ImplicitCollector.scala:469)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compute$1(ImplicitCollector.scala:504)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionType(ImplicitCollector.scala:512)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:592)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:335)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:184)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:145)
+	at org.jetbrains.plugins.scala.lang.psi.api.expr.ScExpression$Ext$.getTypeAfterImplicitConversion$extension(ScExpression.scala:321)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.properTargetCollection$1(BaseJavaConvertersIntention.scala:33)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.$anonfun$isAvailable$1(BaseJavaConvertersIntention.scala:38)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.$anonfun$isAvailable$1$adapted(BaseJavaConvertersIntention.scala:32)
+	at scala.Option.exists(Option.scala:240)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.isAvailable(BaseJavaConvertersIntention.scala:32)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.availableFor(ShowIntentionActionsHandler.java:130)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.lambda$getActionsToShow$2(ShowIntentionsPass.java:340)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.chooseBetweenHostAndInjected(ShowIntentionActionsHandler.java:157)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getActionsToShow(ShowIntentionsPass.java:339)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getIntentionActionsToShow(ShowIntentionsPass.java:269)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.doCollectInformation(ShowIntentionsPass.java:245)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$null$1(PassExecutorService.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:430)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:429)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:405)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:403)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:170)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - IntelliJ IDEA 2018.1.6  Build #IU-181.5540.7 
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - JDK: 1.8.0_152-release 
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - VM: OpenJDK 64-Bit Server VM 
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - Vendor: JetBrains s.r.o 
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - OS: Mac OS X 
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - Last Action: EditorSelectWord 
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - null 
+java.util.ConcurrentModificationException
+	at java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:719)
+	at java.util.LinkedHashMap$LinkedKeyIterator.next(LinkedHashMap.java:742)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.currentStackContains(RecursionManager.scala:88)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:48)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.conforms$extension0(package.scala:40)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.equivInner(ScCompoundType.scala:169)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaEquivalence$$anon$1.compute(ScalaEquivalence.scala:75)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaEquivalence$$anon$1.compute(ScalaEquivalence.scala:18)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Equivalence.equivInner(Equivalence.scala:66)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Equivalence.equivInner$(Equivalence.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.equivInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.equiv$extension1(package.scala:36)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.checkEquiv(ScalaConformance.scala:216)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitParameterizedType(ScalaConformance.scala:887)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.$anonfun$visitCompoundType$3(ScalaConformance.scala:638)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.$anonfun$visitCompoundType$3$adapted(ScalaConformance.scala:637)
+	at scala.collection.IndexedSeqOptimized.prefixLengthImpl(IndexedSeqOptimized.scala:37)
+	at scala.collection.IndexedSeqOptimized.forall(IndexedSeqOptimized.scala:42)
+	at scala.collection.IndexedSeqOptimized.forall$(IndexedSeqOptimized.scala:42)
+	at scala.collection.mutable.ArrayBuffer.forall(ArrayBuffer.scala:48)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitCompoundType(ScalaConformance.scala:637)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.visitType(ScCompoundType.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$ParameterizedAliasVisitor.visitParameterizedType(ScalaConformance.scala:333)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$ParameterizedAliasVisitor.visitParameterizedType$(ScalaConformance.scala:329)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor$$anon$33.visitParameterizedType(ScalaConformance.scala:612)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitCompoundType(ScalaConformance.scala:613)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScCompoundType.visitType(ScCompoundType.scala:42)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$LeftConformanceVisitor.visitParameterizedType(ScalaConformance.scala:948)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScParameterizedType.visitType(ScParameterizedType.scala:132)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:41)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaConformance$$anon$51.compute(ScalaConformance.scala:37)
+	at org.jetbrains.plugins.scala.caches.RecursionManager$RecursionGuard.doPreventingRecursion(RecursionManager.scala:46)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner(Conformance.scala:52)
+	at org.jetbrains.plugins.scala.lang.psi.types.api.Conformance.conformsInner$(Conformance.scala:31)
+	at org.jetbrains.plugins.scala.lang.psi.types.ScalaTypeSystem.conformsInner(ScalaTypeSystem.scala:8)
+	at org.jetbrains.plugins.scala.lang.psi.types.package$ScTypeExt$.conforms$extension0(package.scala:40)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:590)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:324)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:180)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:141)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.findImplicits(InferUtil.scala:176)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.updateTypeWithImplicitParameters(InferUtil.scala:105)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.updateImplicitParameters(ImplicitCollector.scala:469)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compute$1(ImplicitCollector.scala:504)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionType(ImplicitCollector.scala:528)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:592)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:335)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:184)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:141)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.findImplicits(InferUtil.scala:176)
+	at org.jetbrains.plugins.scala.lang.psi.api.InferUtil$.updateTypeWithImplicitParameters(InferUtil.scala:105)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.updateImplicitParameters(ImplicitCollector.scala:469)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compute$1(ImplicitCollector.scala:504)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionType(ImplicitCollector.scala:512)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkFunctionByType(ImplicitCollector.scala:592)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.checkCompatible(ImplicitCollector.scala:310)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collectCompatibleCandidates(ImplicitCollector.scala:335)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.compatible(ImplicitCollector.scala:184)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.calc$1(ImplicitCollector.scala:126)
+	at org.jetbrains.plugins.scala.lang.psi.implicits.ImplicitCollector.collect(ImplicitCollector.scala:145)
+	at org.jetbrains.plugins.scala.lang.psi.api.expr.ScExpression$Ext$.getTypeAfterImplicitConversion$extension(ScExpression.scala:321)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.properTargetCollection$1(BaseJavaConvertersIntention.scala:33)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.$anonfun$isAvailable$1(BaseJavaConvertersIntention.scala:38)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.$anonfun$isAvailable$1$adapted(BaseJavaConvertersIntention.scala:32)
+	at scala.Option.exists(Option.scala:240)
+	at org.jetbrains.plugins.scala.codeInsight.intention.types.BaseJavaConvertersIntention.isAvailable(BaseJavaConvertersIntention.scala:32)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.availableFor(ShowIntentionActionsHandler.java:130)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.lambda$getActionsToShow$2(ShowIntentionsPass.java:340)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.chooseBetweenHostAndInjected(ShowIntentionActionsHandler.java:157)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getActionsToShow(ShowIntentionsPass.java:339)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.getIntentionActionsToShow(ShowIntentionsPass.java:269)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.doCollectInformation(ShowIntentionsPass.java:245)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$null$1(PassExecutorService.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1134)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$doRun$2(PassExecutorService.java:430)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.doRun(PassExecutorService.java:429)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.lambda$run$0(PassExecutorService.java:405)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:143)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:218)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:403)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:170)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - IntelliJ IDEA 2018.1.6  Build #IU-181.5540.7 
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - JDK: 1.8.0_152-release 
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - VM: OpenJDK 64-Bit Server VM 
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - Vendor: JetBrains s.r.o 
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - OS: Mac OS X 
+2018-08-04 22:00:01,395 [172268139]  ERROR - aemon.impl.PassExecutorService - Last Action: EditorSelectWord 
+2018-08-04 22:09:02,808 [172809552]   INFO - bstractProjectsUsagesCollector - String index out of range: -2 
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.substring(String.java:1931)
+	at com.intellij.util.io.URLUtil.parseHostFromSshUrl(URLUtil.java:285)
+	at git4idea.GitStatisticsCollector.getRemoteServerType(GitStatisticsCollector.kt:79)
+	at git4idea.GitStatisticsCollector.getProjectUsages(GitStatisticsCollector.kt:63)
+	at com.intellij.internal.statistic.AbstractProjectsUsagesCollector.persistProjectUsages(AbstractProjectsUsagesCollector.java:53)
+	at com.intellij.internal.statistic.ApplicationStatisticsPersistenceComponent.doPersistProjectUsages(ApplicationStatisticsPersistenceComponent.java:200)
+	at com.intellij.internal.statistic.ApplicationStatisticsPersistenceComponent.persistOpenedProjects(ApplicationStatisticsPersistenceComponent.java:187)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at com.intellij.util.concurrency.SchedulingWrapper$MyScheduledFutureTask.run(SchedulingWrapper.java:230)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-08-04 22:10:39,168 [172905912]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435039168] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:01,820 [172928564]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 27 to update, calculated in 0ms 
+2018-08-04 22:11:01,898 [172928642]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 78ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:11:03,607 [172930351]   INFO - .openapi.util.LowMemoryWatcher - Low memory signal received. 
+2018-08-04 22:11:14,428 [172941172]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435074428] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:14,494 [172941238]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435074494] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:15,088 [172941832]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435075088] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:25,798 [172952542]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435085797] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:26,052 [172952796]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435086052] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:26,119 [172952863]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435086119] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:26,318 [172953062]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435086318] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:30,126 [172956870]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 27 to update, calculated in 1ms 
+2018-08-04 22:11:30,309 [172957053]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 183ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2018-08-04 22:11:33,914 [172960658]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435093914] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:33,987 [172960731]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435093987] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:34,190 [172960934]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435094190] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:34,431 [172961175]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435094430] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:34,497 [172961241]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435094497] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:47,009 [172973753]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435107008] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:47,059 [172973803]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435107059] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:47,109 [172973853]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435107109] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:48,354 [172975098]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435108354] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:48,599 [172975343]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435108598] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:48,669 [172975413]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435108669] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:11:48,843 [172975587]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435108843] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:12:01,138 [172987882]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 26 to update, calculated in 0ms 
+2018-08-04 22:12:01,277 [172988021]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 139ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:12:14,357 [173001101]   INFO - agnostic.FrequentEventDetector - Too many events posted, #2. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435134357] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:12:19,666 [173006410]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435139666] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:12:20,685 [173007429]   INFO - agnostic.FrequentEventDetector - Too many events posted, #2. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435140685] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:12:20,923 [173007667]   INFO - agnostic.FrequentEventDetector - Too many events posted, #2. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435140922] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:12:21,155 [173007899]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435141155] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:12:21,219 [173007963]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435141219] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:12:23,177 [173009921]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 26 to update, calculated in 0ms 
+2018-08-04 22:12:23,328 [173010072]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 151ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:12:40,778 [173027522]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-08-04 22:12:40,921 [173027665]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 0 roots in 0 SDKs took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:12:41,059 [173027803]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 15ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:12:41,125 [173027869]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 66ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:12:58,564 [173045308]   INFO - agnostic.FrequentEventDetector - Too many events posted, #2. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435178563] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:12:58,802 [173045546]   INFO - agnostic.FrequentEventDetector - Too many events posted, #2. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435178802] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:13:01,966 [173048710]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435181966] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:13:02,780 [173049524]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435182780] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:13:12,917 [173059661]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435192916] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:13:13,304 [173060048]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435193303] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:21:50,292 [173577036]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435710292] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:21:50,540 [173577284]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435710540] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:21:50,594 [173577338]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435710594] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:21:50,795 [173577539]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435710795] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:21:50,855 [173577599]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435710855] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:22:54,586 [173641330]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435774586] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:22:54,798 [173641542]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435774798] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:22:54,860 [173641604]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=TransferToEDTQueue[3.Invoker.EDT:com.intellij.ui.tree.AsyncTreeModel],notifier=null,catchExceptions=false,when=1533435774859] on sun.lwawt.macosx.LWCToolkit@6e194032 
+2018-08-04 22:22:54,910 [173641654]   INFO -  #git4idea.commands.GitHandler - [hdf5-java-cloud] git -c core.quotepath=false -c log.showSignature=false add --ignore-errors -- zarr/shared/src/main/scala/org/lasersonlab/zarr/ScanRight.scala 
+2018-08-04 22:28:30,893 [173977637]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 347 of 2035 MB) while dumping threads to /Users/ryan/Library/Logs/IntelliJIdea2018.1/threadDumps-freeze-20180804-222739-IU-181.5540.7/threadDump-20180804-222830.txt 
+2018-08-04 22:29:26,513 [174033257]   INFO - try.connection.AsyncConnection - Automatic shutdown of the async connection 
+2018-08-04 22:29:26,513 [174033257]   INFO - try.connection.AsyncConnection - Gracefully shutdown sentry threads. 
+2018-08-04 22:29:26,513 [174033257]   INFO - try.connection.AsyncConnection - Shutdown finished. 
+2018-08-04 22:29:26,513 [174033257]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-08-04 22:29:26,514 [174033258]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-08-04 22:29:26,515 [174033259]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-08-04 22:30:42,423 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-08-04 22:30:43,082 [    659]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-181.5540.7, 11 Jul 2018 07:43) 
+2018-08-04 22:30:43,082 [    659]   INFO -        #com.intellij.idea.Main - OS: Mac OS X (10.13.6, x86_64) 
+2018-08-04 22:30:43,083 [    660]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-08-04 22:30:43,083 [    660]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-08-04 22:30:43,128 [    705]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx2048m -XX:ReservedCodeCacheSize=240m -XX:+UseCompressedOops -agentlib:yjpagent=probe_disable=*,disablealloc,disabletracing,onlylocal,disableexceptiontelemetry,delay=10000,sessionname=IntelliJIdea2017.1 -Djb.vmOptionsFile=/Users/ryan/Library/Preferences/IntelliJIdea2018.1/idea.vmoptions -Didea.java.redist=jdk-bundled -Didea.home.path=/Applications/IntelliJ IDEA 2018.1.4.app/Contents -Didea.executable=idea -Didea.paths.selector=IntelliJIdea2018.1 
+2018-08-04 22:30:43,129 [    706]   INFO -        #com.intellij.idea.Main - ext: /Applications/IntelliJ IDEA 2018.1.4.app/Contents/jdk/Contents/Home/jre/lib/ext: [sunec.jar, nashorn.jar, cldrdata.jar, jfxrt.jar, dnsns.jar, localedata.jar, sunjce_provider.jar, meta-index, sunpkcs11.jar, jaccess.jar, zipfs.jar] 
+2018-08-04 22:30:43,129 [    706]   INFO -        #com.intellij.idea.Main - ext: /System/Library/Java/Extensions: [MRJToolkit.jar] 
+2018-08-04 22:30:43,129 [    706]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-08-04 22:30:43,175 [    752]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 46 ms 
+2018-08-04 22:30:43,235 [    812]   INFO -        #com.intellij.idea.Main - initializing environment 
+2018-08-04 22:30:43,236 [    813]   INFO - .intellij.util.EnvironmentUtil - loading shell env: /bin/bash -l -i -c '/Applications/IntelliJ IDEA 2018.1.4.app/Contents/bin/printenv.py' '/private/var/folders/m0/mj2x82p1527349z6mn8btgtr0000gr/T/intellij-shell-env.tmp' 
+2018-08-04 22:30:44,694 [   2271]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-08-04 22:30:44,694 [   2271]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 2.0 (JRE-managed HiDPI) 
+2018-08-04 22:30:45,408 [   2985]   INFO - .intellij.idea.IdeaApplication - CPU cores: 8; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@4ee54009[Running, parallelism = 7, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@7204cc38 
+2018-08-04 22:30:46,478 [   4055]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor python-terminal-plugin.xml 
+2018-08-04 22:30:47,772 [   5349]   INFO - llij.ide.plugins.PluginManager - Plugin 'Bytecode Viewer' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,778 [   5355]   INFO - llij.ide.plugins.PluginManager - Plugin 'CVS Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,779 [   5356]   INFO - llij.ide.plugins.PluginManager - Plugin 'Perforce Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,779 [   5356]   INFO - llij.ide.plugins.PluginManager - Plugin 'Subversion Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,780 [   5357]   INFO - llij.ide.plugins.PluginManager - Plugin 'TFS Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,782 [   5359]   INFO - llij.ide.plugins.PluginManager - Plugin 'IDE Settings Sync' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,783 [   5360]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring AOP/@AspectJ' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,783 [   5360]   INFO - llij.ide.plugins.PluginManager - Plugin 'Copyright' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,784 [   5361]   INFO - llij.ide.plugins.PluginManager - Plugin 'Guice' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,784 [   5361]   INFO - llij.ide.plugins.PluginManager - Plugin 'J2ME' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,785 [   5362]   INFO - llij.ide.plugins.PluginManager - Plugin 'TestNG-J' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,785 [   5362]   INFO - llij.ide.plugins.PluginManager - Plugin 'Emma' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,786 [   5363]   INFO - llij.ide.plugins.PluginManager - Plugin 'Task Management' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,787 [   5364]   INFO - llij.ide.plugins.PluginManager - Plugin 'Time Tracking' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,788 [   5365]   INFO - llij.ide.plugins.PluginManager - Plugin 'UI Designer' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,788 [   5365]   INFO - llij.ide.plugins.PluginManager - Plugin 'Velocity support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,789 [   5366]   INFO - llij.ide.plugins.PluginManager - Plugin 'Cucumber for Java' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,789 [   5366]   INFO - llij.ide.plugins.PluginManager - Plugin 'Mercurial Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,790 [   5367]   INFO - llij.ide.plugins.PluginManager - Plugin 'IntelliLang' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,790 [   5367]   INFO - llij.ide.plugins.PluginManager - Plugin 'CFML Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,791 [   5368]   INFO - llij.ide.plugins.PluginManager - Plugin 'Persistence Frameworks Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,792 [   5369]   INFO - llij.ide.plugins.PluginManager - Plugin 'Playframework Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,792 [   5369]   INFO - llij.ide.plugins.PluginManager - Plugin 'Cucumber for Groovy' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,793 [   5370]   INFO - llij.ide.plugins.PluginManager - Plugin 'Eclipse Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,794 [   5371]   INFO - llij.ide.plugins.PluginManager - Plugin 'Osmorc' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,795 [   5372]   INFO - llij.ide.plugins.PluginManager - Plugin 'AspectJ Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,796 [   5373]   INFO - llij.ide.plugins.PluginManager - Plugin 'Flash/Flex Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,798 [   5375]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: EJB, JPA, Servlets' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,800 [   5377]   INFO - llij.ide.plugins.PluginManager - Plugin 'GlassFish Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,800 [   5377]   INFO - llij.ide.plugins.PluginManager - Plugin 'Heroku integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,801 [   5378]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,802 [   5379]   INFO - llij.ide.plugins.PluginManager - Plugin 'JSR45 Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,802 [   5379]   INFO - llij.ide.plugins.PluginManager - Plugin 'CoffeeScript' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,803 [   5380]   INFO - llij.ide.plugins.PluginManager - Plugin 'Jetty Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,803 [   5380]   INFO - llij.ide.plugins.PluginManager - Plugin 'OpenShift integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,803 [   5380]   INFO - llij.ide.plugins.PluginManager - Plugin 'Resin Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,804 [   5381]   INFO - llij.ide.plugins.PluginManager - Plugin 'Tomcat and TomEE Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,804 [   5381]   INFO - llij.ide.plugins.PluginManager - Plugin 'CloudBees integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,805 [   5382]   INFO - llij.ide.plugins.PluginManager - Plugin 'Geronimo Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,805 [   5382]   INFO - llij.ide.plugins.PluginManager - Plugin 'WebSphere Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,806 [   5383]   INFO - llij.ide.plugins.PluginManager - Plugin 'WebLogic Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,807 [   5384]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Bean Validation Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,807 [   5384]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Contexts and Dependency Injection' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,807 [   5384]   INFO - llij.ide.plugins.PluginManager - Plugin 'Hibernate Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,808 [   5385]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Batch Applications' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,808 [   5385]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: JMS, JSON Processing, Concurrency, Transaction ' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,809 [   5386]   INFO - llij.ide.plugins.PluginManager - Plugin 'Application Servers View' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,809 [   5386]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: WebSockets' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,809 [   5386]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Frameworks Base Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,810 [   5387]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Drools Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,810 [   5387]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Arquillian Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,811 [   5388]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java Server Pages (JSP) Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,811 [   5388]   INFO - llij.ide.plugins.PluginManager - Plugin 'Struts 1.x' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,811 [   5388]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss jBPM' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,812 [   5389]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Java Server Faces' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,812 [   5389]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Seam Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,812 [   5389]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Seam Pageflow Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,813 [   5390]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Seam Pages Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,813 [   5390]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,814 [   5391]   INFO - llij.ide.plugins.PluginManager - Plugin 'Cloud Foundry integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,815 [   5392]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Web Services (JAX-WS)' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,815 [   5392]   INFO - llij.ide.plugins.PluginManager - Plugin 'dmServer Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,816 [   5393]   INFO - llij.ide.plugins.PluginManager - Plugin 'FreeMarker support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,816 [   5393]   INFO - llij.ide.plugins.PluginManager - Plugin 'GWT Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,817 [   5394]   INFO - llij.ide.plugins.PluginManager - Plugin 'Google App Engine Integration' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,817 [   5394]   INFO - llij.ide.plugins.PluginManager - Plugin 'Vaadin Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,818 [   5395]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Batch' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,818 [   5395]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring OSGi' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,818 [   5395]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Data' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,819 [   5396]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring MVC' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,819 [   5396]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Security' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,820 [   5397]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Integration Patterns' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,820 [   5397]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Web Flow' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,820 [   5397]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring WebSocket' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,821 [   5398]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Web Services' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,821 [   5398]   INFO - llij.ide.plugins.PluginManager - Plugin 'Struts 2' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,821 [   5398]   INFO - llij.ide.plugins.PluginManager - Plugin 'Tapestry support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,822 [   5399]   INFO - llij.ide.plugins.PluginManager - Plugin 'Thymeleaf' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,822 [   5399]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: RESTful Web Services (JAX-RS)' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,823 [   5400]   INFO - llij.ide.plugins.PluginManager - Plugin 'Grails' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,823 [   5400]   INFO - llij.ide.plugins.PluginManager - Plugin 'Android Support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,828 [   5405]   INFO - llij.ide.plugins.PluginManager - Plugin 'Kotlin' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,830 [   5407]   INFO - llij.ide.plugins.PluginManager - Plugin 'Haml' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,831 [   5408]   INFO - llij.ide.plugins.PluginManager - Plugin 'JavaFX' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,831 [   5408]   INFO - .intellij.util.EnvironmentUtil - shell environment loaded (1041 vars) 
+2018-08-04 22:30:47,832 [   5409]   INFO - llij.ide.plugins.PluginManager - Plugin 'Stylus support' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,832 [   5409]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Boot' can't be loaded because: Plugin is disabled 
+2018-08-04 22:30:47,976 [   5553]   INFO - llij.ide.plugins.PluginManager - 146 plugins initialized in 1743 ms 
+2018-08-04 22:30:47,979 [   5556]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (0.1), AngularJS (181.5540.7), Ant Support (1.0), CSS Support (181.5540.7), Coverage (181.5540.7), DSM Analysis (1.0.0), Database Tools and SQL (181.5540.7), EditorConfig (181.5540.7), Gherkin (999.999), Git Integration (8.1), GitHub (181.5540.7), Gradle (181.5540.7), Groovy (9.0), HTML Tools (2.0), HTTP Client (181.5540.7), I18n for Java (181.5540.7), IDEA CORE (181.5540.7), JUnit (1.0), Java Bytecode Decompiler (181.5540.7), Java Stream Debugger (181.5540.7), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Less support (181.5540.7), Markdown support (181.5540.7), Maven Integration (181.5540.7), Maven Integration Extension (181.5540.7), Plugin DevKit (1.0), Properties Support (181.5540.7), QuirksMode (181.5540.7), Reactor framework support (1.0), Refactor-X (2.01), Remote Hosts Access (0.1), SSH Remote Run (0.1), Sass support (181.5540.7), Settings Repository (181.5540.7), Smali Support (1.0), Spy-js (181.5540.7), Terminal (0.1), UML Support (1.0), W3C Validators (2.0), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (181.5540.7), ZKM-Unscramble (1.0), tslint (181.5540.7) 
+2018-08-04 22:30:47,979 [   5556]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: ASM Bytecode Outline (0.3.5), BashSupport (1.6.13.181), Docker integration (181.5087.20), IdeaVim (0.49), Ini4Idea (181.4892.97), Mathematica Support (2.4.4), NodeJS (181.4668.7), Protobuf Support (0.10.2), Puppet Support (181.3007.14), Python (2018.1.181.5087.50), ReStructuredText Support (134.SNAPSHOT), Ruby (2018.1.20180711), Scala (2018.1.10), Thrift Support (0.9.9) 
+2018-08-04 22:30:47,979 [   5556]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Support (10.3.0), Application Servers View (0.2.0), AspectJ Support (1.2), Bytecode Viewer (0.1), CFML Support (3.53), CVS Integration (11), Cloud Foundry integration (1.0), CloudBees integration (1.0), CoffeeScript (181.5540.7), Copyright (8.1), Cucumber for Groovy (181.5540.7), Cucumber for Java (181.5540.7), Eclipse Integration (3.0), Emma (181.5540.7), Flash/Flex Support (181.5540.7), FreeMarker support (1.0), GWT Support (1.0), Geronimo Integration (1.0), GlassFish Integration (1.0), Google App Engine Integration (1.1.4), Grails (9.0), Guice (8.0), Haml (181.5540.7), Heroku integration (181.5540.7), Hibernate Support (1.0), IDE Settings Sync (181.5540.7), IntelliLang (8.0), J2ME (1.0), JBoss Arquillian Support (1.0), JBoss Drools Support (1.0), JBoss Frameworks Base Support (1.0), JBoss Integration (1.0), JBoss Seam Pageflow Support (1.0), JBoss Seam Pages Support (1.0), JBoss Seam Support (1.0), JBoss jBPM (2.0.0), JSR45 Integration (1.0), Java EE: Batch Applications (1.0), Java EE: Bean Validation Support (1.1), Java EE: Contexts and Dependency Injection (1.1), Java EE: EJB, JPA, Servlets (1.0), Java EE: JMS, JSON Processing, Concurrency, Transaction  (1.0), Java EE: Java Server Faces (2.2.X.), Java EE: RESTful Web Services (JAX-RS) (1.0), Java EE: Web Services (JAX-WS) (1.9), Java EE: WebSockets (1.0), Java Server Pages (JSP) Integration (1.0), JavaFX (1.0), Jetty Integration (1.0), Kotlin (1.2.31-release-IJ2018.1-1), Mercurial Integration (10.0), OpenShift integration (1.0), Osmorc (1.4.11), Perforce Integration (2.0), Persistence Frameworks Support (1.0), Playframework Support (1.0), Resin Integration (8.1), Spring AOP/@AspectJ (1.0), Spring Batch (1.0), Spring Boot (1.0), Spring Data (1.0), Spring Integration Patterns (1.0), Spring MVC (1.0), Spring OSGi (1.0), Spring Security (1.0), Spring Support (1.0), Spring Web Flow (1.0), Spring Web Services (1.0), Spring WebSocket (1.0), Struts 1.x (2.0), Struts 2 (1.0), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Tapestry support (1.0), Task Management (1.0), TestNG-J (8.0), Thymeleaf (1.0), Time Tracking (1.0), Tomcat and TomEE Integration (1.0), UI Designer (181.5540.7), Vaadin Support (1.0), Velocity support (1.0), WebLogic Integration (1.0), WebSphere Integration (1.0), dmServer Support (0.9.5) 
+2018-08-04 22:30:49,025 [   6602]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1800 
+2018-08-04 22:30:49,336 [   6913]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /Applications/IntelliJ IDEA 2018.1.4.app/Contents/bin/fsnotifier 
+2018-08-04 22:30:49,348 [   6925]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-08-04 22:30:49,591 [   7168]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2018-08-04 22:30:49,591 [   7168]   INFO - pi.util.registry.RegistryState -   CBT.system.in.process = true 
+2018-08-04 22:30:49,591 [   7168]   INFO - pi.util.registry.RegistryState -   SBT.system.in.process = true 
+2018-08-04 22:30:49,591 [   7168]   INFO - pi.util.registry.RegistryState -   debugger.watches.in.variables = false 
+2018-08-04 22:30:50,811 [   8388]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-08-04 22:30:50,923 [   8500]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-08-04 22:30:51,348 [   8925]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@64ad34bf 
+2018-08-04 22:30:51,515 [   9092]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-08-04 22:30:51,525 [   9102]   INFO - lij.diagnostic.DebugLogManager - Set DEBUG for the following categories:  
+2018-08-04 22:30:51,544 [   9121]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-08-04 22:30:51,637 [   9214]   INFO - gs.impl.UpdateCheckerComponent - channel: eap 
+2018-08-04 22:30:52,211 [   9788]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:506, number of extensions:51 
+2018-08-04 22:30:52,219 [   9796]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:7 
+2018-08-04 22:30:52,281 [   9858]   INFO - llij.util.io.PersistentHashMap - Compacting /Users/ryan/Library/Caches/IntelliJIdea2018.1/index/filetypes/filetypes.storage 
+2018-08-04 22:30:52,281 [   9858]   INFO - llij.util.io.PersistentHashMap - Live keys:58, dead keys:103, read compaction size:10230737 
+2018-08-04 22:30:52,282 [   9859]   INFO - llij.util.io.PersistentHashMap - Loaded mappings:0ms, keys:58 
+2018-08-04 22:30:52,310 [   9887]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:86, number of extensions:141 
+2018-08-04 22:30:52,311 [   9888]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-08-04 22:30:52,452 [  10029]   INFO - llij.util.io.PersistentHashMap - Compacted values for:169ms fragments:60, newfragments:58 
+2018-08-04 22:30:52,452 [  10029]   INFO - llij.util.io.PersistentHashMap - Updated mappings:0 ms 
+2018-08-04 22:30:52,475 [  10052]   INFO - llij.util.io.PersistentHashMap - Compacted /Users/ryan/Library/Caches/IntelliJIdea2018.1/index/filetypes/filetypes.storage:18453946 bytes into 2031060 bytes in 194ms. 
+2018-08-04 22:30:52,914 [  10491]   INFO - ndex.PrebuiltIndexProviderBase - Prebuilt id-index indices are missing for Python 
+2018-08-04 22:30:52,970 [  10547]   INFO - pi.util.registry.RegistryValue - Registry value 'SBT.system.in.process' has changed to 'true" 
+2018-08-04 22:30:53,369 [  10946]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@bb42458 
+2018-08-04 22:30:53,369 [  10946]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@67ffb206 
+2018-08-04 22:30:53,370 [  10947]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@6087bcf 
+2018-08-04 22:30:53,618 [  11195]   INFO - ruby.rvm.LocalRvmPathsSettings - RVM installation wasn't detected. 
+2018-08-04 22:30:53,619 [  11196]   INFO - plication.impl.ApplicationImpl - 105 application components initialized in 7396ms 
+2018-08-04 22:30:53,847 [  11424]   INFO - .intellij.idea.IdeaApplication - App initialization took 12816 ms 
+2018-08-04 22:30:53,984 [  11561]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-08-04 22:30:54,015 [  11592]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2018-08-04 22:30:54,182 [  11759]   INFO - llij.util.io.PersistentHashMap - Compacting /Users/ryan/Library/Caches/IntelliJIdea2018.1/index/java.simple.property/java.simple.property.storage 
+2018-08-04 22:30:54,182 [  11759]   INFO - llij.util.io.PersistentHashMap - Live keys:4097, dead keys:777, read compaction size:6908562 
+2018-08-04 22:30:54,185 [  11762]   INFO - llij.util.io.PersistentHashMap - Loaded mappings:2ms, keys:4097 
+2018-08-04 22:30:54,287 [  11864]   INFO - llij.util.io.PersistentHashMap - Compacted values for:102ms fragments:7217, newfragments:4097 
+2018-08-04 22:30:54,295 [  11872]   INFO - llij.util.io.PersistentHashMap - Updated mappings:8 ms 
+2018-08-04 22:30:54,302 [  11879]   INFO - llij.util.io.PersistentHashMap - Compacted /Users/ryan/Library/Caches/IntelliJIdea2018.1/index/java.simple.property/java.simple.property.storage:13768201 bytes into 1988980 bytes in 120ms. 
+2018-08-04 22:30:54,655 [  12232]   INFO - pl$FileIndexDataInitialization - Initialization done:2436 
+2018-08-04 22:30:54,906 [  12483]   INFO - exImpl$StubIndexInitialization - Initialization done:250 
+2018-08-04 22:30:55,255 [  12832]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@61edf80 
+2018-08-04 22:30:56,205 [  13782]   INFO - CompilerWorkspaceConfiguration - Available processors: 8 
+2018-08-04 22:30:56,215 [  13792]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-08-04 22:30:56,215 [  13792]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [<Project>] 
+2018-08-04 22:30:56,328 [  13905]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@7d654161 
+2018-08-04 22:30:56,900 [  14477]   INFO - management.pik.PikSdkRefresher - Refreshing sdks 
+2018-08-04 22:30:56,900 [  14477]   INFO - management.pik.PikSdkRefresher - pik isn't supported by OS 
+2018-08-04 22:30:56,904 [  14481]   INFO - gement.rbenv.RbenvSdkRefresher - Refreshing sdks 
+2018-08-04 22:30:56,905 [  14482]   INFO - gement.rbenv.RbenvSdkRefresher - rubies folder doesn't exist 
+2018-08-04 22:30:56,910 [  14487]   INFO - ellij.project.impl.ProjectImpl - 195 project components initialized in 1941 ms 
+2018-08-04 22:30:57,256 [  14833]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@2b3e9266 
+2018-08-04 22:30:57,287 [  14864]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@1ca3b023 
+2018-08-04 22:30:58,788 [  16365]   INFO - le.impl.ModuleManagerComponent - 17 module(s) loaded in 1877 ms 
+2018-08-04 22:31:00,003 [  17580]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-08-04 22:31:01,249 [  18826]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-08-04 22:31:02,177 [  19754]   INFO - ellij.project.impl.ProjectImpl - 22 project components initialized in 39 ms 
+2018-08-04 22:31:02,184 [  19761]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 0 roots in 0 SDKs took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:31:02,914 [  20491]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-08-04 22:31:03,187 [  20764]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 918ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:31:05,147 [  22724]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 3050ms under project opening modal progress 
+2018-08-04 22:31:05,606 [  23183]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  ASM) or icon jar:file:/Users/ryan/Library/Application%20Support/IntelliJIdea2018.1/ASM-BO/lib/ASM-BO.jar!/images/asm.gif 
+2018-08-04 22:31:05,823 [  23400]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 620 millis 
+2018-08-04 22:31:05,839 [  23416]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 681ms under project opening modal progress 
+2018-08-04 22:31:05,964 [  23541]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 3941ms; general responsiveness: ok; EDT responsiveness: 2/4 sluggish, 2/4 very slow 
+2018-08-04 22:31:06,931 [  24508]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/adam-core] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/cli] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/coverage-depth] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/coverage-depth/dataproc] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/io] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/io/bytes] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/io/channel] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/iterator] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/loci] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/magic-rdds] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/math] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/path-utils] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/reads] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/readsets] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/reference] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/sbt-parent] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/shapeless] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/spark-bam] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/spark-tests] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/spark-util] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/test-utils] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/utils] 
+2018-08-04 22:31:06,932 [  24509]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/utils-cli] 
+2018-08-04 22:31:07,136 [  24713]   INFO - management.pik.PikSdkRefresher - Refreshing sdks 
+2018-08-04 22:31:07,137 [  24714]   INFO - management.pik.PikSdkRefresher - pik isn't supported by OS 
+2018-08-04 22:31:07,137 [  24714]   INFO - gement.rbenv.RbenvSdkRefresher - Refreshing sdks 
+2018-08-04 22:31:07,137 [  24714]   INFO - gement.rbenv.RbenvSdkRefresher - rubies folder doesn't exist 
+2018-08-04 22:31:07,137 [  24714]   INFO - ellij.project.impl.ProjectImpl - 195 project components initialized in 292 ms 
+2018-08-04 22:31:07,681 [  25258]   INFO - le.impl.ModuleManagerComponent - 183 module(s) loaded in 543 ms 
+2018-08-04 22:31:08,463 [  26040]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-08-04 22:31:08,840 [  26417]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 0 roots in 0 SDKs took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:31:08,888 [  26465]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-08-04 22:31:09,000 [  26577]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 151ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:31:10,651 [  28228]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 1832ms under project opening modal progress 
+2018-08-04 22:31:10,682 [  28259]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  ASM) or icon jar:file:/Users/ryan/Library/Application%20Support/IntelliJIdea2018.1/ASM-BO/lib/ASM-BO.jar!/images/asm.gif 
+2018-08-04 22:31:10,884 [  28461]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 7695ms; general responsiveness: ok; EDT responsiveness: 3/9 sluggish, 4/9 very slow 
+2018-08-04 22:31:11,104 [  28681]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 441 millis 
+2018-08-04 22:31:11,110 [  28687]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 458ms under project opening modal progress 
+2018-08-04 22:31:11,114 [  28691]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 2296ms; general responsiveness: ok; EDT responsiveness: 0/2 sluggish, 1/2 very slow 
+2018-08-04 22:31:11,284 [  28861]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-08-04 22:31:11,284 [  28861]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 251ms on UI thread 
+2018-08-04 22:31:12,451 [  30028]   INFO - j.ide.ui.OptionsTopHitProvider - 765 ms spent to cache options in application 
+2018-08-04 22:31:13,042 [  30619]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-08-04 22:31:13,134 [  30711]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [] 
+2018-08-04 22:31:13,197 [  30774]   INFO - tartup.impl.StartupManagerImpl - /Users/ryan/c/hdf5-java-cloud/.idea case-sensitivity: expected=false actual=false 
+2018-08-04 22:31:13,235 [  30812]   INFO -  #git4idea.commands.GitHandler - [.] git version 
+2018-08-04 22:31:13,257 [  30834]   INFO -  #git4idea.commands.GitHandler - git version 2.18.0 
+2018-08-04 22:31:13,261 [  30838]   INFO - ea.config.GitExecutableManager - Git version for /usr/local/bin/git : 2.18.0 
+2018-08-04 22:31:13,532 [  31109]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [<Project>] 
+2018-08-04 22:31:14,754 [  32331]   INFO - j.ide.ui.OptionsTopHitProvider - 717 ms spent to cache options in project 
+2018-08-04 22:31:14,754 [  32331]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [] 
+2018-08-04 22:31:14,755 [  32332]   INFO - tartup.impl.StartupManagerImpl - /Users/ryan/c/hl-ext/.idea case-sensitivity: expected=false actual=false 
+2018-08-04 22:31:15,191 [  32768]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 0 roots in 0 SDKs took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:31:15,278 [  32855]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 65ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:31:15,434 [  33011]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 156ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:31:15,454 [  33031]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 20704 ms 
+2018-08-04 22:31:15,610 [  33187]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 8905 ms 
+2018-08-04 22:31:16,129 [  33706]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 7129ms; general responsiveness: 1/7 sluggish; EDT responsiveness: 2/7 sluggish, 1/7 very slow 
+2018-08-04 22:31:16,769 [  34346]   INFO - tartup.impl.StartupManagerImpl - SassExtensionsStartupActivity run in 106ms on UI thread 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/adam-core] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/cli] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/coverage-depth] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/coverage-depth/dataproc] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/io] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/io/bytes] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/io/channel] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/iterator] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/loci] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/magic-rdds] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/math] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/path-utils] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/reads] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/readsets] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/reference] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/sbt-parent] 
+2018-08-04 22:31:17,158 [  34735]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/shapeless] 
+2018-08-04 22:31:17,159 [  34736]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/spark-bam] 
+2018-08-04 22:31:17,159 [  34736]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/spark-tests] 
+2018-08-04 22:31:17,159 [  34736]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/spark-util] 
+2018-08-04 22:31:17,159 [  34736]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/test-utils] 
+2018-08-04 22:31:17,159 [  34736]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/utils] 
+2018-08-04 22:31:17,159 [  34736]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/ryan/c/hl/utils-cli] 
+2018-08-04 22:31:17,512 [  35089]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-08-04 22:31:18,051 [  35628]   INFO - j.ide.ui.OptionsTopHitProvider - 125 ms spent to cache options in project 
+2018-08-04 22:31:18,250 [  35827]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 0 roots in 0 SDKs took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:31:18,374 [  35951]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 22ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:31:18,633 [  36210]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 258ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-04 22:31:27,609 [  45186]   INFO -   #git4idea.log.GitLogProvider - Fresh repository: file:///Users/ryan/c/hl/io/channel 
+2018-08-04 22:31:28,577 [  46154]   INFO -   #git4idea.log.GitLogProvider - Fresh repository: file:///Users/ryan/c/hl/io/bytes 
+2018-08-04 22:31:29,017 [  46594]   INFO -   #git4idea.log.GitLogProvider - Fresh repository: file:///Users/ryan/c/hl/io/bytes 
+2018-08-04 22:31:29,613 [  47190]   INFO -   #git4idea.log.GitLogProvider - Fresh repository: file:///Users/ryan/c/hl/io/channel 
+2018-08-04 22:32:14,372 [  91949]   INFO - ojectView.impl.ProjectViewTree - getToggleClickCount: -1 for org.jetbrains.plugins.scala.projectView.TypeDefinitionNode 
+2018-08-04 22:34:50,766 [ 248343]   INFO - gin.ProtostuffPluginController - projectClosed hdf5-java-cloud 
+2018-08-04 22:34:51,013 [ 248590]   INFO - gin.ProtostuffPluginController - projectClosed hl-ext 
+2018-08-04 22:34:51,157 [ 248734]   INFO - ution.rmi.RemoteProcessSupport - Terminating: 52764/Maven3ServerImplcf16ca9a 
+2018-08-04 22:34:51,574 [ 249151]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-08-04 22:34:51,574 [ 249151]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-08-04 22:34:51,575 [ 249152]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-08-04 22:34:51,593 [ 249170]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-08-04 22:34:51,610 [ 249187]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-08-04 22:34:51,675 [ 249252]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 2 auto-detected files
+Elapsed time on auto-detect: 9 ms 
+2018-08-04 22:34:51,678 [ 249255]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-08-04 22:34:51,684 [ 249261]  ERROR - ij.components.ComponentManager - null 
+java.lang.NullPointerException
+	at com.maddyhome.idea.vim.EventFacade.getTypedAction(EventFacade.java:125)
+	at com.maddyhome.idea.vim.EventFacade.restoreTypedActionHandler(EventFacade.java:69)
+	at com.maddyhome.idea.vim.VimPlugin.disposeComponent(VimPlugin.java:183)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.disposeComponents(ComponentManagerImpl.java:135)
+	at com.intellij.openapi.application.impl.ApplicationImpl.dispose(ApplicationImpl.java:485)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:48)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:44)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:138)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:169)
+	at com.intellij.openapi.util.objectTree.ObjectNode.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeAll(ObjectTree.java:144)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:129)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:125)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$disposeSelf$7(ApplicationImpl.java:244)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:244)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:772)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:748)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:737)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:714)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:709)
+	at com.intellij.ide.MacOSApplicationProvider$Worker.lambda$null$3(MacOSApplicationProvider.java:106)
+	at com.intellij.ide.MacOSApplicationProvider$Worker.lambda$submit$7(MacOSApplicationProvider.java:197)
+	at com.intellij.openapi.application.TransactionGuardImpl.runSyncTransaction(TransactionGuardImpl.java:88)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$pollQueueLater$0(TransactionGuardImpl.java:74)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.doRun(LaterInvocator.java:447)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:431)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:415)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:786)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:727)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:395)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-08-04 22:34:51,686 [ 249263]  ERROR - ij.components.ComponentManager - IntelliJ IDEA 2018.1.6  Build #IU-181.5540.7 
+2018-08-04 22:34:51,686 [ 249263]  ERROR - ij.components.ComponentManager - JDK: 1.8.0_152-release 
+2018-08-04 22:34:51,686 [ 249263]  ERROR - ij.components.ComponentManager - VM: OpenJDK 64-Bit Server VM 
+2018-08-04 22:34:51,686 [ 249263]  ERROR - ij.components.ComponentManager - Vendor: JetBrains s.r.o 
+2018-08-04 22:34:51,686 [ 249263]  ERROR - ij.components.ComponentManager - OS: Mac OS X 
+2018-08-04 22:34:51,686 [ 249263]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-08-04 22:34:51,721 [ 249298]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-08-04 22:34:51,723 [ 249300]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-08-04 22:34:51,725 [ 249302]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
